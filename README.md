@@ -73,3 +73,4 @@ Major changes to this boilerplate are described and documented as part of pull r
 
 <https://github.com/hlxsites/aem-boilerplate-commerce/issues?q=label%3Achangelog+is%3Aclosed>
 Test edit to trigger a push
+Test edit to trigger a push
