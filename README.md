@@ -72,3 +72,4 @@ If you want to incorporate code changes made to this upstream boilerplate after 
 Major changes to this boilerplate are described and documented as part of pull requests and tracked via the `changelog` tag. This log documents changes to the canonical starting point — not upgrades that forked implementations must apply. Review it if you are considering pulling specific upstream changes into your fork:
 
 <https://github.com/hlxsites/aem-boilerplate-commerce/issues?q=label%3Achangelog+is%3Aclosed>
+Test edit to trigger a push
